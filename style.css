@@ -1,0 +1,4 @@
+.btn-operator.active {
+  background-color: #343a40; /* Warna latar lebih gelap untuk tombol terpilih */
+  color: #ffffff; /* Warna teks lebih terang untuk kontras */
+}
